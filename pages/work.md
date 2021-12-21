@@ -3,7 +3,7 @@ title: Work
 subtitle: This is where you can describe your skills and talk about projects
   you've worked on
 date: 2021-03-15T06:33:06.713Z
-permalink: /work/index.html
+permalink: /home/index.html
 eleventyNavigation:
   order: 4
   key: Work
