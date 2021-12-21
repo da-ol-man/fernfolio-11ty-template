@@ -1,6 +1,6 @@
 {
-  "title": "Hello, my name is Fernfolio",
-  "image": "/static/img/fern-in-hand.jpeg",
-  "subtitle": "The super simple portfolio template built with Eleventy and Netlify CMS",
-  "image_alt": "Fern in hand"
+  "title": "A beginners guide to building a blog for free",
+  "image": "/static/img/pexels-gya-den-2303781.jpg",
+  "subtitle": "I made this website to help other people like me to be able to build a blog or a website for free. Except of course if you want a custom domain name. ",
+  "image_alt": "Van on a road"
 }
