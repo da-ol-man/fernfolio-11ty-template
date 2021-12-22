@@ -5,6 +5,7 @@
   justify-content: center;
   padding: 15px;
   border-top: 1px solid var(--color-border);
+  flex-direction: column;
 }
 
 @media (min-width: 1024px) {
