@@ -1,18 +1,16 @@
 ---
-title: Cat Translation API
+title: Getting a domain name
 emoji: 😺
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
-summary: API to translate cat speech to english
+metaDescription: step-by-step guide to getting a domain name.
+summary: We are going to help you get a domain name. 
 tags:
-  - golang
-  - graphQL
-  - aws
+  - domains
+  - step-one
 ---
 
-### Task
+### Step one
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+If you want to register a domain name that is used the world over. Go to https://namecheap.com. If you want to register a domain specific to your country, head over to a domain name registery in your country. Simply Google "domains" if you don't know of one. There will be some international registeries, but there should also be some local ones. Please check for the TLD that represents your country and go to that website.  
 
 ### Solution
 
