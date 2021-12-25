@@ -31,15 +31,10 @@
 }
 
 .site-header__home {
-  width: 16px;
-  height: 16px;
-  margin: 0 0 0 2rem;
+  width: 12px;
+  height: 12px;
+  margin: 0 0 0 1rem;
 }
-
-.site-header__homespan {
-  float: right;
-}
-
 
 .site-header__nav {
   width: 100%;
