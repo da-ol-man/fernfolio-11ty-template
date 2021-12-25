@@ -36,6 +36,10 @@
   margin: 0 0 0 2rem;
 }
 
+.site-header__homespan {
+  float: right;
+}
+
 
 .site-header__nav {
   width: 100%;
