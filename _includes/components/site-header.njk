@@ -19,7 +19,7 @@
     </a>
   </span>
 
-<div class="hometest">
+<div>
 <a class="site-header__link" href="{{ '/' | url }}">
  <img
         class="site-header__home"
@@ -29,7 +29,7 @@
         height="12px"
         loading="lazy">
     </a>
-    </div>
+   
 
   <nav class="site-header__nav">
     {% set navPages = collections.all | eleventyNavigation %}
@@ -41,4 +41,6 @@
     {%- endfor %}
     </ul>
   </nav>
+
+   </div>
 </header>
