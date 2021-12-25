@@ -8,6 +8,10 @@
   flex-direction: column;
 }
 
+.free-icon {
+  font-size: xx-small;
+}
+
 @media (min-width: 1024px) {
   .site-footer {
     padding: 15px 30px;
