@@ -22,6 +22,25 @@
 
   <nav class="site-header__nav">
     {% set navPages = collections.all | eleventyNavigation %}
+    
+    
+    <ul>
+    <li>
+    <a class="site-header__link" href="{{ '/' | url }}">
+     <img
+        class="site-header__home"
+        src="/static/img/home.png"
+        alt="home icon"
+        width="12px"
+        height="12px"
+        loading="lazy">
+    </a>
+    </li>
+    </ul>
+
+
+
+
     <ul class="site-header__items">
     {%- for entry in navPages %}
       <li class="site-header__item">
