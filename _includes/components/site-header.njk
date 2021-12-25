@@ -13,15 +13,6 @@
     </a>
   </span>
 
-    <a class="site-header__link" href="{{ '/' | url }}">
-      <img
-        class="site-header__home"
-        src="/static/img/home.png"
-        alt="home icon"
-        width="16px"
-        height="16px"
-        loading="lazy">
-    </a>
 
 
   <nav class="site-header__nav">
@@ -29,7 +20,20 @@
     <ul class="site-header__items">
     {%- for entry in navPages %}
       <li class="site-header__item">
-        <a class="site-header__link" href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
+        < class="site-header__link" href="{{ entry.url | url }}"{% if entry.url == page.
+
+
+      <img
+        class="site-header__home"
+        src="/static/img/home.png"
+        alt="home icon"
+        width="16px"
+        height="16px"
+        loading="lazy">
+        
+        
+        
+        url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
       </li>
     {%- endfor %}
     </ul>
