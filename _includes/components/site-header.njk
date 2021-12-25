@@ -9,14 +9,23 @@
         height="32px"
         loading="lazy">
       {{ metadata.title }}
-      <img
+
+    </a>
+  </span>
+
+
+  <span class="site-header__homespan>
+  <a class="site-header__link" href="{{ '/' | url }}">
+        <img
         class="site-header__home"
         src="/static/img/home.png"
         alt="home icon"
         width="12px"
         height="12px"
-    </a>
-  </span>
+        loading="lazy">
+        
+</a>
+        </span>
 
   <nav class="site-header__nav">
     {% set navPages = collections.all | eleventyNavigation %}
