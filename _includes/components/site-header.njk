@@ -13,10 +13,8 @@
     </a>
   </span>
 
-
-  <nav class="site-header__nav">
-      <a class="site-header__link" href="{{ '/' | url }}">
-        <img
+    <a class="site-header__link" href="{{ '/' | url }}">
+      <img
         class="site-header__home"
         src="/static/img/home.png"
         alt="home icon"
@@ -25,6 +23,8 @@
         loading="lazy">
     </a>
 
+
+  <nav class="site-header__nav">
     {% set navPages = collections.all | eleventyNavigation %}
     <ul class="site-header__items">
     {%- for entry in navPages %}
