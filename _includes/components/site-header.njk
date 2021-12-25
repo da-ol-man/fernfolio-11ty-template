@@ -12,8 +12,7 @@
     </a>
   </span>
 
-
-  <nav class="site-header__nav">
+<div>
   <a class="site-header__link" href="{{ '/' | url }}">
   <img
         class="site-header__home"
@@ -22,7 +21,7 @@
         width="16px"
         height="16px"
         </a>
-
+  <nav class="site-header__nav">
     {% set navPages = collections.all | eleventyNavigation %}
     <ul class="site-header__items">
     {%- for entry in navPages %}
@@ -32,4 +31,5 @@
     {%- endfor %}
     </ul>
   </nav>
+  </div>
 </header>
