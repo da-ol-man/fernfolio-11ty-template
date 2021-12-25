@@ -37,7 +37,8 @@
 }
 
 .hometest {
-  
+  margin-left: auto;
+  order: 2;
 }
 
 .site-header__nav {
