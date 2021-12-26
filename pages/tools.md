@@ -7,8 +7,7 @@ eleventyNavigation:
   order: 4
   key: Tools
 ---
-*(Links on this page are the only affiliate links on this site.)*
-*(Using these links helps keep this website available for other users.)*
+*Links on this page are the only affiliate links on this site. Using these links helps keep this website available for other users.*
 #### Thank you for your support!
 
 - - -
