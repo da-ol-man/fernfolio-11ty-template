@@ -8,5 +8,5 @@ permalink: /projects/index.html
 emoji: 💻
 eleventyNavigation:
   key: Projects
-  order: 3
+  order: 4
 ---
