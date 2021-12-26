@@ -7,28 +7,34 @@ eleventyNavigation:
   order: 4
   key: Tools
 ---
-### 👩‍💻 Experience:
+### 👩‍💻 Hosting & Domains:
 
-#### Tesla
+#### Namecheap
 
-**Senior Software Engineer** *(2019 - Current)*
+**Link here** *(Add the link here)*
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
-
-#### Microsoft
-
-**Software Engineer** *(2014 - 2019)*
-
-* Maintained legacy Internet Explorer for 5 long years
+* Mention the advantages
+* that you have
 
 - - -
 
-### 📚 Education:
+### 👩‍💻 Themes
 
-#### Harvard
+#### BricksBuilder
 
-**PhD Astronomy** *(2014 - 2015)*
+**Build your own theme** *(Add the link here)*
 
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+* 100% customizable
+* Mention the advantages
+* that you have
+
+- - -
+
+### 📚 Marketing/SEO:
+
+#### Ranktracker
+
+**Link here** *(Add the link here)*
+
+* Mention the advantages
+* that you have
