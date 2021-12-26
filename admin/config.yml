@@ -53,5 +53,6 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string, required: false}
+          - {label: Subtitle2, name: subtitle2, widget: string, required: false}
           - { label: Image, name: image, widget: image, required: false }
           - { label: Image Alt Text, name: image_alt, widget: string, required: false }
