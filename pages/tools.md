@@ -1,8 +1,8 @@
 ---
 title: Tools
 subtitle: Blog building tools for design, development, hosting and Marketing.
-subtitle1: Links on this page are the only affiliate links and I appreciate you using them. 
-subtitle2: Using these links helps keep this website available for other users.
+Links on this page are the only affiliate links and I appreciate you using them.
+Using these links helps keep this website available for other users.
 date: 2021-03-15T06:33:06.713Z
 permalink: tools/index.html
 eleventyNavigation:
