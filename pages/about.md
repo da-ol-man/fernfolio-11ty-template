@@ -8,16 +8,19 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+#### Whatt4?
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+#### *To help YOU or someone you know.*
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+Being online today is becoming more and more important every day. 
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
+Being online costs money💰. What if you don't have the money💰?
 
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
+Dont worry, this website is going to give you all the information that you need to get yourself online. 
 
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
+* for free 💎 if you don't need a custom domain name,
+* and if you need a custom domain name, it can cost you as little as $10 per year only. 
 
-![Fern in Hand](/static/img/fern-in-hand.jpeg "Fern in Hand")
+#### The choice will be yours. 
+
+This website is currently running on the cost of the domain name only and the time it takes to update it and keep it relevant. 
