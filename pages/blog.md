@@ -7,5 +7,5 @@ date: 2017-01-01
 permalink: /articles/index.html
 eleventyNavigation:
   key: Articles
-  order: 4
+  order: 2
 ---
