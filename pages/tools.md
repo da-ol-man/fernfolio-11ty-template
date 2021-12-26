@@ -20,7 +20,7 @@ eleventyNavigation:
 
 - - -
 
-### 👩‍💻 Themes
+### 🎁 Themes
 
 #### BricksBuilder
 
@@ -32,7 +32,7 @@ eleventyNavigation:
 
 - - -
 
-### 📚 Marketing/SEO:
+### 📈 Marketing/SEO:
 
 #### Ranktracker
 
