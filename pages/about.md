@@ -35,5 +35,25 @@ I was pumped and ready to go. I Googled "how to build a website for begginers.
 
 ##### There were so many results for this, I thought it was going to be straight forward!
 
+The process is. 
+
+Avoiding the marketing pit of doom!🔥🕳️ 🔥 Not so easy!
+
+So after wading through months of reading and many trial and errors.
+
+I have put together a few guides. 🦄 Free of marketing clutter. 🦄 To help you build a blog or webiste and get yourself online. 
+
+###### There will be no affiliate links in the articles or the projects.
+Beacuse there is no need to use the paid versions of the apps I recommend. Until the time comes that you need to increase their functionality and reach. 
+
+###### Of course if you want to purchase the product. Please do. 
+###### Then please use our affiliate links that are all on the Tools page. 
+*Using these links helps me earn a commission and helps to pay the bills.💸*
+
+Thank you, enjoy the site and good luck!
+If there is anything you want to discuss, please head over to the contact page. 
+
+Wayne ✌️
+
 
 
