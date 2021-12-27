@@ -34,6 +34,7 @@ section: home
   <hr>
   <h2>Projects</h2>
   {% set projectlist = collections.project %}
+  {% set show_projectlist_tags = false %}
   {% set limit = 4 %}
   {% include "components/projectlist.njk" %}
 
