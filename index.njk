@@ -28,12 +28,13 @@ section: home
   <h2>Articles</h2>
   {% set postslist = collections.post %}
   {% set show_postslist_tags = false %}
-  {% set limit = 3 %}
+  {% set limit = 4 %}
   {% include "components/postslist.njk" %}
 
   <hr>
   <h2>Projects</h2>
   {% set projectlist = collections.project %}
+  {% set limit = 4 %}
   {% include "components/projectlist.njk" %}
 
 </div>
